@@ -36,11 +36,11 @@ What are the most popular libraries in the Idris ecosystem?
 | 30 | [idris-hackers/idris-posix](https://github.com/idris-hackers/idris-posix) | System POSIX bindings for Idris. | 15 |
 | 31 | [ziman/bibdris](https://github.com/ziman/bibdris) | BibTeX database management in Idris | 15 |
 | 32 | [domdere/fp-in-idris](https://github.com/domdere/fp-in-idris) | Functional Programing in Scala (in Idris) [Idris] | 14 |
-| 33 | [puffnfresh/stl-idris](https://github.com/puffnfresh/stl-idris) | Code from my StrangeLoop 2014 Idris presentation. | 13 |
-| 34 | [MaxOw/Idris-WebGL](https://github.com/MaxOw/Idris-WebGL) | WebGL bindings for Idris. | 13 |
-| 35 | [uwap/idris-http](https://github.com/uwap/idris-http) | An HTTP library for idris | 13 |
-| 36 | [FranckS/RingIdris](https://github.com/FranckS/RingIdris) | Ring solver for Idris | 13 |
-| 37 | [jfdm/idris-config](https://github.com/jfdm/idris-config) | Parsers for various configuration files written in Idris. | 13 |
+| 33 | [MaxOw/Idris-WebGL](https://github.com/MaxOw/Idris-WebGL) | WebGL bindings for Idris. | 13 |
+| 34 | [uwap/idris-http](https://github.com/uwap/idris-http) | An HTTP library for idris | 13 |
+| 35 | [puffnfresh/stl-idris](https://github.com/puffnfresh/stl-idris) | Code from my StrangeLoop 2014 Idris presentation. | 13 |
+| 36 | [jfdm/idris-config](https://github.com/jfdm/idris-config) | Parsers for various configuration files written in Idris. | 13 |
+| 37 | [FranckS/RingIdris](https://github.com/FranckS/RingIdris) | Ring solver for Idris | 13 |
 | 38 | [japesinator/Idris-Bifunctors](https://github.com/japesinator/Idris-Bifunctors) | A small bifunctor library for idris | 13 |
 | 39 | [vindaloo-thesis/examples](https://github.com/vindaloo-thesis/examples) | Code samples inspiring language design | 12 |
 | 40 | [edwinb/Eff-new](https://github.com/edwinb/Eff-new) | New version of Effects library with dependent states | 12 |
@@ -51,32 +51,32 @@ What are the most popular libraries in the Idris ecosystem?
 | 45 | [jfdm/idris-xml](https://github.com/jfdm/idris-xml) | A simple XML module for Idris. | 10 |
 | 46 | [justjoheinz/idris-httpclient](https://github.com/justjoheinz/idris-httpclient) | A http client for Idris based on libcurl | 10 |
 | 47 | [trillioneyes/idris-pong](https://github.com/trillioneyes/idris-pong) | A browser Pong game, taking advantage of Idris's ability to compile to javascript. | 10 |
-| 48 | [ctford/flying-spaghetti-monster](https://github.com/ctford/flying-spaghetti-monster) | An Idris type provider for communicating type-checkable protocols. | 10 |
-| 49 | [ziman/idris-benchmarks](https://github.com/ziman/idris-benchmarks) | Some benchmarks for Idris | 10 |
+| 48 | [ziman/idris-benchmarks](https://github.com/ziman/idris-benchmarks) | Some benchmarks for Idris | 10 |
+| 49 | [ctford/flying-spaghetti-monster](https://github.com/ctford/flying-spaghetti-monster) | An Idris type provider for communicating type-checkable protocols. | 10 |
 | 50 | [Heather/Idris.Yaml](https://github.com/Heather/Idris.Yaml) | Idris YAML lib | 10 |
 | 51 | [SimonJF/IdrisNet](https://github.com/SimonJF/IdrisNet) | Verified networking using dependent types | 10 |
 | 52 | [BlackBrane/probability](https://github.com/BlackBrane/probability) | Probabilistic computation in Idris | 10 |
 | 53 | [BlackBrane/xquant](https://github.com/BlackBrane/xquant) | Dependently-typed structures for quantum physics in Idris | 9 |
 | 54 | [rbarreiro/idrisjs](https://github.com/rbarreiro/idrisjs) | Js libraries for idris | 9 |
-| 55 | [raichoo/31C3Slides](https://github.com/raichoo/31C3Slides) | 31C3 Slides | 9 |
-| 56 | [sellout/Idris-CPDT](https://github.com/sellout/Idris-CPDT) | A translation of Certified Programming with Dependent Types to Idris. | 9 |
-| 57 | [pbl64k/gpif-idris](https://github.com/pbl64k/gpif-idris) | Translation of Agda code in A. Löh and J. P. Magalhães *Generic Programming with Indexed Functors* to Idris. | 9 |
-| 58 | [mankyKitty/idris-webgl](https://github.com/mankyKitty/idris-webgl) | Experimentation with Idris and WebGL via JavaScript FFI | 8 |
-| 59 | [ziman/text](https://github.com/ziman/text) | Text framework for Idris | 8 |
+| 55 | [sellout/Idris-CPDT](https://github.com/sellout/Idris-CPDT) | A translation of Certified Programming with Dependent Types to Idris. | 9 |
+| 56 | [pbl64k/gpif-idris](https://github.com/pbl64k/gpif-idris) | Translation of Agda code in A. Löh and J. P. Magalhães *Generic Programming with Indexed Functors* to Idris. | 9 |
+| 57 | [raichoo/31C3Slides](https://github.com/raichoo/31C3Slides) | 31C3 Slides | 9 |
+| 58 | [ziman/text](https://github.com/ziman/text) | Text framework for Idris | 8 |
+| 59 | [jaredloomis/Idris-HoTT](https://github.com/jaredloomis/Idris-HoTT) | Homotopy Type Theory in Idris | 8 |
 | 60 | [davidfstr/idris-insertion-sort](https://github.com/davidfstr/idris-insertion-sort) | Provably correct implementation of insertion sort in Idris. | 8 |
-| 61 | [jaredloomis/Idris-HoTT](https://github.com/jaredloomis/Idris-HoTT) | Homotopy Type Theory in Idris | 8 |
+| 61 | [mankyKitty/idris-webgl](https://github.com/mankyKitty/idris-webgl) | Experimentation with Idris and WebGL via JavaScript FFI | 8 |
 | 62 | [raichoo/strangegroup-idris-June2014](https://github.com/raichoo/strangegroup-idris-June2014) | Code I presented in a demo at Strange Group | 8 |
 | 63 | [edwinb/ConcIO](https://github.com/edwinb/ConcIO) | Concurrent IO language with Uniqueness Types | 7 |
 | 64 | [idris-hackers/idris-free](https://github.com/idris-hackers/idris-free) | Free Monads and useful constructions to work with them | 7 |
 | 65 | [exercism/xidris](https://github.com/exercism/xidris) | Exercism exercism in Idris | 7 |
 | 66 | [eckart/gl-idris](https://github.com/eckart/gl-idris) |  | 7 |
 | 67 | [dysinger/khartes](https://github.com/dysinger/khartes) | An Experiment with Both Haskell & Idris JS FFI interface to AWS | 7 |
-| 68 | [nicolabotta/SeqDecProbs](https://github.com/nicolabotta/SeqDecProbs) |  | 7 |
-| 69 | [JakobBruenker/curses-idris](https://github.com/JakobBruenker/curses-idris) | Curses bindings package for Idris | 7 |
-| 70 | [jfdm/idris-testing](https://github.com/jfdm/idris-testing) | Testing Utilities for Idris programs. | 7 |
+| 68 | [JakobBruenker/curses-idris](https://github.com/JakobBruenker/curses-idris) | Curses bindings package for Idris | 7 |
+| 69 | [jfdm/idris-testing](https://github.com/jfdm/idris-testing) | Testing Utilities for Idris programs. | 7 |
+| 70 | [nicolabotta/SeqDecProbs](https://github.com/nicolabotta/SeqDecProbs) |  | 7 |
 | 71 | [rodrigogribeiro/idrisregexp](https://github.com/rodrigogribeiro/idrisregexp) | Regular expression matching in Idris | 6 |
-| 72 | [GuglielmoS/sfidris](https://github.com/GuglielmoS/sfidris) | Examples and exercises of Software Foundations in Idris | 6 |
-| 73 | [idris-hackers/idris-algebra](https://github.com/idris-hackers/idris-algebra) | This is an attempt at painting as many bikesheds as possible with a typeclass hierarchy for idris reflecting "Algebra" | 6 |
+| 72 | [idris-hackers/idris-algebra](https://github.com/idris-hackers/idris-algebra) | This is an attempt at painting as many bikesheds as possible with a typeclass hierarchy for idris reflecting "Algebra" | 6 |
+| 73 | [GuglielmoS/sfidris](https://github.com/GuglielmoS/sfidris) | Examples and exercises of Software Foundations in Idris | 6 |
 | 74 | [soimort/idris-commonmark](https://github.com/soimort/idris-commonmark) | Idris wrapper for jgm's Markdown parser | 6 |
 | 75 | [puffnfresh/idris-workshop](https://github.com/puffnfresh/idris-workshop) | Small collection of Idris exercises | 6 |
 | 76 | [japesinator/Idris-Profunctors](https://github.com/japesinator/Idris-Profunctors) | A small profunctor library for idris | 6 |
@@ -91,18 +91,20 @@ What are the most popular libraries in the Idris ecosystem?
 | 85 | [berewt/UnionType](https://github.com/berewt/UnionType) | UnionType in Idris | 5 |
 | 86 | [KesterTong/idris-finite-math](https://github.com/KesterTong/idris-finite-math) | Math related to finite set and vectors, in Idris | 5 |
 | 87 | [Heather/Control.Eternal.Idris](https://github.com/Heather/Control.Eternal.Idris) | tiny idris library | 5 |
-| 88 | [trillioneyes/idris-toys](https://github.com/trillioneyes/idris-toys) | An eclectic collection of beginner Idris code | 4 |
-| 89 | [puffnfresh/idris-partiality](https://github.com/puffnfresh/idris-partiality) | The partiality monad in Idris. | 4 |
+| 88 | [eeue56/idris-hangman](https://github.com/eeue56/idris-hangman) | Example of hangman in Idris | 4 |
+| 89 | [trillioneyes/idris-toys](https://github.com/trillioneyes/idris-toys) | An eclectic collection of beginner Idris code | 4 |
 | 90 | [jfdm/idris-argparse](https://github.com/jfdm/idris-argparse) | A simple argument parser written in Idris. | 4 |
 | 91 | [edwinb/TypeDD-Samples](https://github.com/edwinb/TypeDD-Samples) | Sample code from "Type Driven Development with Idris" | 4 |
 | 92 | [jfdm/idris-protocol-examples](https://github.com/jfdm/idris-protocol-examples) | Examples of using the Idris Protocols package for stuff. | 4 |
 | 93 | [davidwlewis/Oz](https://github.com/davidwlewis/Oz) | Hardware Description Language embedded in Idris | 4 |
-| 94 | [eeue56/idris-hangman](https://github.com/eeue56/idris-hangman) | Example of hangman in Idris | 4 |
+| 94 | [puffnfresh/idris-partiality](https://github.com/puffnfresh/idris-partiality) | The partiality monad in Idris. | 4 |
 | 95 | [pa-ba/alacarte-idris](https://github.com/pa-ba/alacarte-idris) | Data Types a la Carte in Idris | 4 |
 | 96 | [domdere/logic-idris](https://github.com/domdere/logic-idris) | proposition combinators in [Idris] | 4 |
 | 97 | [bravit/csd-utwente](https://github.com/bravit/csd-utwente) | Certified Software Development with Dependent Types in Idris | 4 |
 | 98 | [stallmanifold/idris-nanoparsec](https://github.com/stallmanifold/idris-nanoparsec) | A minimal and simple string based parser combinator library written in Idris. | 4 |
 | 99 | [bmsherman/blog](https://github.com/bmsherman/blog) |  | 4 |
 | 100 | [avieth/ParsingWithProofs](https://github.com/avieth/ParsingWithProofs) | Applicative/monadic parsing with dependent types | 4 |
+| 101 | [david-christiansen/Brainfun](https://github.com/david-christiansen/Brainfun) | A Brainf**k interpreter in Idris | 4 |
+| 102 | [mietek/scott-encoding](https://github.com/mietek/scott-encoding) | TODO | 4 |
 
 Inspired by awesome repo [rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem). Thanks Nick
