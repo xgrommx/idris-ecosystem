@@ -67,21 +67,21 @@ What are the most popular libraries in the Idris ecosystem?
 | 61 | [mankyKitty/idris-webgl](https://github.com/mankyKitty/idris-webgl) | Experimentation with Idris and WebGL via JavaScript FFI | 8 |
 | 62 | [raichoo/strangegroup-idris-June2014](https://github.com/raichoo/strangegroup-idris-June2014) | Code I presented in a demo at Strange Group | 8 |
 | 63 | [edwinb/ConcIO](https://github.com/edwinb/ConcIO) | Concurrent IO language with Uniqueness Types | 7 |
-| 64 | [idris-hackers/idris-free](https://github.com/idris-hackers/idris-free) | Free Monads and useful constructions to work with them | 7 |
-| 65 | [exercism/xidris](https://github.com/exercism/xidris) | Exercism exercism in Idris | 7 |
+| 64 | [exercism/xidris](https://github.com/exercism/xidris) | Exercism exercism in Idris | 7 |
+| 65 | [idris-hackers/idris-free](https://github.com/idris-hackers/idris-free) | Free Monads and useful constructions to work with them | 7 |
 | 66 | [eckart/gl-idris](https://github.com/eckart/gl-idris) |  | 7 |
 | 67 | [dysinger/khartes](https://github.com/dysinger/khartes) | An Experiment with Both Haskell & Idris JS FFI interface to AWS | 7 |
 | 68 | [JakobBruenker/curses-idris](https://github.com/JakobBruenker/curses-idris) | Curses bindings package for Idris | 7 |
 | 69 | [jfdm/idris-testing](https://github.com/jfdm/idris-testing) | Testing Utilities for Idris programs. | 7 |
 | 70 | [nicolabotta/SeqDecProbs](https://github.com/nicolabotta/SeqDecProbs) |  | 7 |
 | 71 | [rodrigogribeiro/idrisregexp](https://github.com/rodrigogribeiro/idrisregexp) | Regular expression matching in Idris | 6 |
-| 72 | [idris-hackers/idris-algebra](https://github.com/idris-hackers/idris-algebra) | This is an attempt at painting as many bikesheds as possible with a typeclass hierarchy for idris reflecting "Algebra" | 6 |
-| 73 | [GuglielmoS/sfidris](https://github.com/GuglielmoS/sfidris) | Examples and exercises of Software Foundations in Idris | 6 |
+| 72 | [GuglielmoS/sfidris](https://github.com/GuglielmoS/sfidris) | Examples and exercises of Software Foundations in Idris | 6 |
+| 73 | [idris-hackers/idris-algebra](https://github.com/idris-hackers/idris-algebra) | This is an attempt at painting as many bikesheds as possible with a typeclass hierarchy for idris reflecting "Algebra" | 6 |
 | 74 | [soimort/idris-commonmark](https://github.com/soimort/idris-commonmark) | Idris wrapper for jgm's Markdown parser | 6 |
 | 75 | [puffnfresh/idris-workshop](https://github.com/puffnfresh/idris-workshop) | Small collection of Idris exercises | 6 |
 | 76 | [japesinator/Idris-Profunctors](https://github.com/japesinator/Idris-Profunctors) | A small profunctor library for idris | 6 |
-| 77 | [polasek/idris-scientific](https://github.com/polasek/idris-scientific) | Exploring the potential use of dependent types in scientific programming. | 5 |
-| 78 | [jmars/Records](https://github.com/jmars/Records) | Dependently Typed Extensible Records with Prototypal Inheritance | 5 |
+| 77 | [jmars/Records](https://github.com/jmars/Records) | Dependently Typed Extensible Records with Prototypal Inheritance | 5 |
+| 78 | [polasek/idris-scientific](https://github.com/polasek/idris-scientific) | Exploring the potential use of dependent types in scientific programming. | 5 |
 | 79 | [HuwCampbell/idris-lens](https://github.com/HuwCampbell/idris-lens) | van Laarhoven lenses for Idris | 5 |
 | 80 | [raichoo/IdrisCSVExample](https://github.com/raichoo/IdrisCSVExample) | CSV Example using Type Providers | 5 |
 | 81 | [steshaw/tdd-with-idris](https://github.com/steshaw/tdd-with-idris) | Working through Type-Driven Development with Idris | 5 |
