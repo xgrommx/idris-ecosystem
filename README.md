@@ -58,11 +58,11 @@ What are the most popular libraries in the Idris ecosystem?
 | 52 | [pheymann/specdris](https://github.com/pheymann/specdris) | A test framework for Idris | 11 |
 | 53 | [david-christiansen/idris-utils](https://github.com/david-christiansen/idris-utils) | Various Idris utility libraries. No guarantees. Some may end up in the stdlib someday, while others may be useless. | 11 |
 | 54 | [david-christiansen/idris-code-highlighter](https://github.com/david-christiansen/idris-code-highlighter) | A semantic highlighter for Idris code | 10 |
-| 55 | [idris-hackers/idris-free](https://github.com/idris-hackers/idris-free) | Free Monads and useful constructions to work with them | 10 |
-| 56 | [programminglanguagesclub/elemental-magicks](https://github.com/programminglanguagesclub/elemental-magicks) | Idris + Ur/Web development of a perfect information, fair, deterministic turn based strategy game, built with dependent types! | 10 |
+| 55 | [programminglanguagesclub/elemental-magicks](https://github.com/programminglanguagesclub/elemental-magicks) | Idris + Ur/Web development of a perfect information, fair, deterministic turn based strategy game, built with dependent types! | 10 |
+| 56 | [idris-hackers/idris-free](https://github.com/idris-hackers/idris-free) | Free Monads and useful constructions to work with them | 10 |
 | 57 | [jfdm/idris-xml](https://github.com/jfdm/idris-xml) | A simple XML module for Idris. | 10 |
-| 58 | [davidfstr/idris-insertion-sort](https://github.com/davidfstr/idris-insertion-sort) | Provably correct implementation of insertion sort in Idris. | 10 |
-| 59 | [justjoheinz/idris-httpclient](https://github.com/justjoheinz/idris-httpclient) | A http client for Idris based on libcurl | 10 |
+| 58 | [justjoheinz/idris-httpclient](https://github.com/justjoheinz/idris-httpclient) | A http client for Idris based on libcurl | 10 |
+| 59 | [davidfstr/idris-insertion-sort](https://github.com/davidfstr/idris-insertion-sort) | Provably correct implementation of insertion sort in Idris. | 10 |
 | 60 | [trillioneyes/idris-pong](https://github.com/trillioneyes/idris-pong) | A browser Pong game, taking advantage of Idris's ability to compile to javascript. | 10 |
 | 61 | [Heather/Idris.Yaml](https://github.com/Heather/Idris.Yaml) | Idris YAML lib | 10 |
 | 62 | [david-christiansen/derive-all-the-instances](https://github.com/david-christiansen/derive-all-the-instances) | Work on type class deriving with elaboration reflection | 10 |
@@ -73,16 +73,16 @@ What are the most popular libraries in the Idris ecosystem?
 | 67 | [BlackBrane/xquant](https://github.com/BlackBrane/xquant) | Dependently-typed structures for quantum physics in Idris | 9 |
 | 68 | [raichoo/31C3Slides](https://github.com/raichoo/31C3Slides) | 31C3 Slides | 9 |
 | 69 | [jaredloomis/Idris-HoTT](https://github.com/jaredloomis/Idris-HoTT) | Homotopy Type Theory in Idris | 8 |
-| 70 | [lambda-11235/FarRP](https://github.com/lambda-11235/FarRP) | An arrowized FRP library for Idris with static safety guarantees. | 8 |
-| 71 | [eckart/gl-idris](https://github.com/eckart/gl-idris) |  | 8 |
-| 72 | [JakobBruenker/curses-idris](https://github.com/JakobBruenker/curses-idris) | Curses bindings package for Idris | 8 |
-| 73 | [raichoo/strangegroup-idris-June2014](https://github.com/raichoo/strangegroup-idris-June2014) | Code I presented in a demo at Strange Group | 8 |
+| 70 | [eckart/gl-idris](https://github.com/eckart/gl-idris) |  | 8 |
+| 71 | [lambda-11235/FarRP](https://github.com/lambda-11235/FarRP) | An arrowized FRP library for Idris with static safety guarantees. | 8 |
+| 72 | [raichoo/strangegroup-idris-June2014](https://github.com/raichoo/strangegroup-idris-June2014) | Code I presented in a demo at Strange Group | 8 |
+| 73 | [JakobBruenker/curses-idris](https://github.com/JakobBruenker/curses-idris) | Curses bindings package for Idris | 8 |
 | 74 | [exercism/idris](https://github.com/exercism/idris) | Exercism exercises in Idris. | 8 |
 | 75 | [edwinb/ConcIO](https://github.com/edwinb/ConcIO) | Concurrent IO language with Uniqueness Types | 7 |
 | 76 | [japesinator/Idris-Profunctors](https://github.com/japesinator/Idris-Profunctors) | A small profunctor library for idris | 7 |
 | 77 | [mankyKitty/idris-webgl](https://github.com/mankyKitty/idris-webgl) | Experimentation with Idris and WebGL via JavaScript FFI | 7 |
-| 78 | [timjs/idris-clean](https://github.com/timjs/idris-clean) | A priliminary backend for Idris that compiles to Clean. | 7 |
-| 79 | [HuwCampbell/idris-lens](https://github.com/HuwCampbell/idris-lens) | van Laarhoven lenses for Idris | 7 |
+| 78 | [HuwCampbell/idris-lens](https://github.com/HuwCampbell/idris-lens) | van Laarhoven lenses for Idris | 7 |
+| 79 | [timjs/idris-clean](https://github.com/timjs/idris-clean) | A priliminary backend for Idris that compiles to Clean. | 7 |
 | 80 | [idris-hackers/idris-algebra](https://github.com/idris-hackers/idris-algebra) | This is an attempt at painting as many bikesheds as possible with a typeclass hierarchy for idris reflecting "Algebra" | 7 |
 | 81 | [nicolabotta/SeqDecProbs](https://github.com/nicolabotta/SeqDecProbs) |  | 7 |
 | 82 | [jfdm/idris-testing](https://github.com/jfdm/idris-testing) | Testing Utilities for Idris programs. | 7 |
@@ -101,8 +101,8 @@ What are the most popular libraries in the Idris ecosystem?
 | 95 | [ostera/tap-idris](https://github.com/ostera/tap-idris) | :beers: A simple TAP producer and consumer/reporter for Idris | 5 |
 | 96 | [bravit/csd-utwente](https://github.com/bravit/csd-utwente) | Certified Software Development with Dependent Types in Idris | 5 |
 | 97 | [tauli/idris-monadic-parser](https://github.com/tauli/idris-monadic-parser) |  | 5 |
-| 98 | [raichoo/IdrisCSVExample](https://github.com/raichoo/IdrisCSVExample) | CSV Example using Type Providers | 5 |
-| 99 | [be5invis/idris-dict](https://github.com/be5invis/idris-dict) | A Dict k v in Idris | 5 |
+| 98 | [be5invis/idris-dict](https://github.com/be5invis/idris-dict) | A Dict k v in Idris | 5 |
+| 99 | [raichoo/IdrisCSVExample](https://github.com/raichoo/IdrisCSVExample) | CSV Example using Type Providers | 5 |
 | 100 | [polasek/idris-scientific](https://github.com/polasek/idris-scientific) | Exploring the potential use of dependent types in scientific programming. | 5 |
 | 101 | [Heather/Control.Eternal.Idris](https://github.com/Heather/Control.Eternal.Idris) | tiny idris library | 5 |
 | 102 | [timjb/idris-pfds](https://github.com/timjb/idris-pfds) | Purely functional data structures in Idris | 4 |
